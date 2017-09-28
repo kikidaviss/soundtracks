@@ -1,0 +1,14 @@
+section{display: block;width: 400px;margin: 0 auto; border: solid; 5px; border-color: red; padding: 10px; background-color: white;}  
+
+section div img {width: 130px;}
+
+section div {margin: 10px; text-align: center;} 
+
+h5 {text-align: center;}
+
+section div input { border-radius: 20px; padding: 5px;}
+
+button {border-radius: 20px; }
+
+body {background-color: #B9808F;}
+
